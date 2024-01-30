@@ -1,0 +1,14 @@
+body{
+    background-color:cadetblue;
+}
+.countdown-message{
+ text-align: center;
+ padding:230px;
+ font-size: 40px;
+ color: antiquewhite;
+}
+#message{
+   background-image: linear-gradient(to bottom right,orange,white,green);
+   color: black;
+   padding:21%;
+}
